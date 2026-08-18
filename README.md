@@ -41,22 +41,13 @@
 
 #### 🚀 Featured Flagship Products
 - 🏪 **[KasirQ.id](https://kasirq.id)** — Mobile & Web POS ecosystem with offline-first synchronization.
-- 🌙 **Ashiilapp** — Islamic daily services Android app (**10K+ downloads** on Google Play).
-- 📦 **Garuda Kasir** — Mobile POS application for online & offline transactions (**1K+ downloads**).
+- 🌙 **[Ashiilapp](https://play.google.com/store/apps/details?id=id.or.markazalhijrah.ashiilapp)** — Islamic daily services Android app (**10K+ downloads** on Google Play).
+- 📦 **[Garuda Kasir](https://play.google.com/store/apps/details?id=com.garudakasir)** — Mobile POS application for online & offline transactions (**1K+ downloads** on Google Play).
 
 #### 🌐 Web Platforms & Client Solutions
 - 🕌 **[Markaz Alhijrah](https://markazalhijrah.or.id/)** — Islamic Foundation & Community Portal.
 - 🚚 **Fleet Dispatch System** — Logistics & fleet monitoring platform for RAPP operations.
 - 🏥 **Hospital Notes & Journal Apps** — Medical notes and journal tracking interface.
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esaputra95&show_icons=true&theme=github_dark&count_private=true" alt="Eko's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esaputra95&layout=compact&theme=github_dark&hide=html,css" alt="Top Languages" height="150"/>
-</p>
 
 ---
 
