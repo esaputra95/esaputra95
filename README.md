@@ -1,22 +1,22 @@
-# Hi there, I'm Eko Saputra! 👋
+# Hi there, I'm Eko Saputra!
 
-🚀 **Fullstack & Mobile Developer** with **8+ years of experience** building production-grade web, mobile, and desktop applications across Retail/POS, Healthcare, Logistics, and Digital Services.
+**Fullstack & Mobile Developer** with **8+ years of experience** building production-grade web, mobile, and desktop applications across Retail/POS, Healthcare, Logistics, and Digital Services.
 
-⚡ **Founder & Lead Architect at [KasirQ.id](https://kasirq.id)** | Specialized in React Native, Next.js, Express.js, and offline-first mobile architectures.
-
----
-
-### 👨‍💻 Quick Overview
-- 🔭 **Currently Working On**: Frontend & Mobile apps at **PT. Ashiil Cahaya Tauhid** (Ashiilapp - 10K+ Play Store downloads).
-- 💡 **Featured Product**: Built the complete **KasirQ.id** ecosystem (React Native POS, Web Dashboard, Express API, Offline-First Sync).
-- 🛠️ **Core Tech Stack**: React.js, Next.js, React Native, TypeScript, Node.js, Express.js, Laravel, MySQL, & PostgreSQL.
-- 📍 **Location**: Pekanbaru, Riau, Indonesia 🇮🇩
-- 🔗 **Landing Page / Quick Links**: [kasirq.id](https://kasirq.id)
-- 📬 **Contact**: [ekosaputra.t.i@gmail.com](mailto:ekosaputra.t.i@gmail.com)
+**Founder & Lead Architect at [KasirQ.id](https://kasirq.id)** | Specialized in React Native, Next.js, Express.js, and offline-first mobile architectures.
 
 ---
 
-### 🧰 Tech Stack & Expertise
+### Quick Overview
+- **Currently Working On**: Frontend & Mobile apps at **PT. Ashiil Cahaya Tauhid** (Ashiilapp - 10K+ Play Store downloads).
+- **Featured Product**: Built the complete **KasirQ.id** ecosystem (React Native POS, Web Dashboard, Express API, Offline-First Sync).
+- **Core Tech Stack**: React.js, Next.js, React Native, TypeScript, Node.js, Express.js, Laravel, MySQL, & PostgreSQL.
+- **Location**: Pekanbaru, Riau, Indonesia 🇮🇩
+- **Landing Page / Quick Links**: [kasirq.id](https://kasirq.id)
+- **Contact**: [ekosaputra.t.i@gmail.com](mailto:ekosaputra.t.i@gmail.com)
+
+---
+
+### Tech Stack & Expertise
 
 **Frontend & Mobile:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -37,21 +37,21 @@
 
 ---
 
-### 📱 Live Products & Highlights
+### Live Products & Highlights
 
-#### 🚀 Featured Flagship Products
-- 🏪 **[KasirQ.id](https://kasirq.id)** — Mobile & Web POS ecosystem with offline-first synchronization.
-- 🌙 **[Ashiilapp](https://play.google.com/store/apps/details?id=id.or.markazalhijrah.ashiilapp)** — Islamic daily services Android app (**10K+ downloads** on Google Play).
-- 📦 **[Garuda Kasir](https://play.google.com/store/apps/details?id=com.garudakasir)** — Mobile POS application for online & offline transactions (**1K+ downloads** on Google Play).
+#### Featured Flagship Products
+- **[KasirQ.id](https://kasirq.id)** — Mobile & Web POS ecosystem with offline-first synchronization.
+- **[Ashiilapp](https://play.google.com/store/apps/details?id=id.or.markazalhijrah.ashiilapp)** — Islamic daily services Android app (**10K+ downloads** on Google Play).
+- **[Garuda Kasir](https://play.google.com/store/apps/details?id=com.garudakasir)** — Mobile POS application for online & offline transactions (**1K+ downloads** on Google Play).
 
-#### 🌐 Web Platforms & Client Solutions
-- 🕌 **[Markaz Alhijrah](https://markazalhijrah.or.id/)** — Islamic Foundation & Community Portal.
-- 🚚 **Fleet Dispatch System** — Logistics & fleet monitoring platform for RAPP operations.
-- 🏥 **Hospital Notes & Journal Apps** — Medical notes and journal tracking interface.
+#### Web Platforms & Client Solutions
+- **[Markaz Alhijrah](https://markazalhijrah.or.id/)** — Islamic Foundation & Community Portal.
+- **Fleet Dispatch System** — Logistics & fleet monitoring platform for RAPP operations.
+- **Hospital Notes & Journal Apps** — Medical notes and journal tracking interface.
 
 ---
 
-### 📫 Connect & Reach Me
+### Connect & Reach Me
 - **Email:** [ekosaputra.t.i@gmail.com](mailto:ekosaputra.t.i@gmail.com)
 - **WhatsApp:** [+62 823-8291-7703](https://wa.me/6282382917703)
 - **Location:** Pekanbaru, Riau, Indonesia
